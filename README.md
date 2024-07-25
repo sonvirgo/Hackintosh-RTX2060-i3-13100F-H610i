@@ -1,4 +1,4 @@
-# Hackintosh-RTX2060-i3-1300F-H610i
+# Hackintosh-RTX2060-i3-13100F-H610i
 Khách quen trải nghiệm :D
 ![image](https://github.com/user-attachments/assets/8b081a53-f7e0-4f61-bc40-3e1e9f3aa933)
 
